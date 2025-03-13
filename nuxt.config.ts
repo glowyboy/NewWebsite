@@ -1,4 +1,4 @@
-import { defineNuxtConfig } from 'nuxt/config'
+import { defineNuxtConfig } from 'nuxt/config';
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
@@ -15,5 +15,10 @@ export default defineNuxtConfig({
     ],
   },
   
-  compatibilityDate: '2025-02-26'
+  compatibilityDate: '2025-02-26',
+
+  build: {
+    analyze: false, // Disable unnecessary build analysis
+    transpile: [], // Add any needed transpilation libraries here
+  }
 });
