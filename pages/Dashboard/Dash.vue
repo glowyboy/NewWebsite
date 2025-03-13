@@ -158,7 +158,6 @@
           <p>Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.</p>
           <div class=" text-purple flex items-center  gap-4 cursor-pointer">
             <button class=" cursor-pointer">Read article</button>
-            <img src="../../assets/images/arrow.png" class=" size-4 ">
           </div>
         </div>
       </div>
@@ -170,7 +169,6 @@
           <p>Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.</p>
           <div class=" text-purple flex items-center  gap-4 cursor-pointer">
             <button class=" cursor-pointer">Read article</button>
-            <img src="../../assets/images/arrow.png" class=" size-4 ">
           </div>
         </div>
       </div>
@@ -182,7 +180,6 @@
           <p>Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.</p>
           <div class=" text-purple flex items-center  gap-4 cursor-pointer">
             <button class=" cursor-pointer">Read article</button>
-            <img src="../../assets/images/arrow.png" class=" size-4 ">
           </div>
         </div>
       </div>

@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Glowyboy/Desktop/CssFigmaproj/CssFigmaproj/CssFigmaproj/figmeproj/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
